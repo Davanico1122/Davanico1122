@@ -39,6 +39,17 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Davanico1122&theme=tokyonight)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Davanico1122&theme=react-dark)
+
+[![Snake animation](https://github.com/Davanico1122/Davanico1122/blob/output/github-contribution-grid-snake.svg)](https://github.com/Davanico1122)
+
+---
+
 ## 📂 Projects Showcase
 
 | Project | Deskripsi | Link |
