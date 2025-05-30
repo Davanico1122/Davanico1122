@@ -1,33 +1,170 @@
-<h1>Hi 👋, I'm Dava</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/davanico1122_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=davanico1122&show_icons=true&locale=en" alt="davanico1122" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davanico1122&" alt="davanico1122" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davanico1122&show_icons=true&locale=en&layout=compact" alt="davanico1122" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davanico1122" alt="davanico1122" /></a></p>
+  <div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"></a>
+</div>
+<hr>
+<details>
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
+      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="azzar" height="30"></a>
+      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="azzar" height="30"></a>
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="azzar" height="30"></a>
+      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="azzar" height="30"></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
+<details>
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About this Account</h2>
+ <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=1999AZZAR&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" height="25" alt="views count"></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" src="https://img.shields.io/website?down_message=offline&amp;style=for-the-badge&amp;up_message=online&amp;url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website"></a>
+  </p>
+  <p align="center">
+  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center" src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built"></a>
+  </p>
+ <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&amp;style=for-the-badge" height="25" alt="lisense"></a>
+  <a href="github.com/1999AZZAR"><img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="work on my machine"></a>
+ </p>
+ </samp>
+</div>
+</details>
+<details> 
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br>
+    <details open="">
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
+          </a>
+        </p>
+</details>
+    <details open="">
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&amp;theme=gruvbox&amp;hide_border=true">
+          </a>
+       </p>
+     <br>
+     
+  </details></samp></div>    
+</details>
+<details>
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">📈 Latest Activity Graph</summary>
+  <samp>
+  <br>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true"></a>
+<br>
+  </samp>
+  </details>
+<details>
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">🌏 global</summary>
+  <br>
+  <details open="">
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">👷‍♂️ create your own custom badge</summary>
+  <div>
+  <samp>
+    <h2 align="center">u can try using these website for creating your own custom badge</h2>
+    <p align="center">
+      <a href="https://forthebadge.com/generator/" target="blank">
+        <img src="https://forthebadge.com/images/mark.svg" img="" align="center" height="50" alt="for the badge"></a>        
+      <a href="https://badgen.net/" target="blank">
+        <img src="https://badgen.net/static/favicon.png" img="" align="center" height="50" alt="badgen"></a>
+      <a href="https://shields.io/" target="blank">
+        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img="" align="center" height="50" alt="shields.io"></a>
+    </p>
+    </samp>
+  </div>
+</details> 
+<details open="">
+  <summary style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Noto Color Emoji&quot;, &quot;Segoe UI&quot;, &quot;Apple Color Emoji&quot;, &quot;Noto Color Emoji&quot;, EmojiNotoColor, &quot;Noto Emoji&quot;, EmojiNoto, &quot;Segoe UI&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Twitter Color Emoji&quot;, EmojiTwemColor, &quot;Twemoji Mozilla&quot;, EmojiTwem, &quot;EmojiOne Mozilla&quot;, &quot;Android Emoji&quot;, EmojiSymbols, Symbola, EmojiSymb !important;">😒 random stuff</summary>
+<div>
+<samp>
+<h2 align="center"> just an ascii art of me holding an umbrella </h2>
+</samp>
+</div>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/*</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
+<span class="line"><span style="color:#6A737D">*/</span></span></code></pre>
+</details>
+<br>
+</details> 
+<hr>
+<p>Credits: <a href="https://github.com/1999AZZAR">1999AZZAR</a>
+Last Edited on: 23/09/2022</p> 
