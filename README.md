@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+web+and+game+developer." />
 </p>
----
 
 ## 💻 About Me
 
