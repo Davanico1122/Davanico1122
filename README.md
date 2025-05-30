@@ -9,6 +9,9 @@
 
 ---
 
+![Virus Banner](green_virus_github_banner.gif)
+
+---
 ## 💻 About Me
 
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Game Development**
