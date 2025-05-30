@@ -3,12 +3,10 @@
 <h1 align="center">Hi 👋, I'm Davanico</h1>
 <h3 align="center">Graphic Design | Game Creator | Tech Enthusiast</h3>
 
+<p align="center">
   <img src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/main/assets/green_virus_github_banner.gif" alt="Green Virus Banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+web+and+game+developer." />
-</p>
 
 ## 💻 About Me
 
