@@ -115,7 +115,7 @@ Go           1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ## 📊 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
