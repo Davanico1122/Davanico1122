@@ -200,17 +200,11 @@ gantt
 
 ### 🐍 Watch me get eaten by my own snake game!
 
-![Snake animation](https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg)
-
-<!-- Alternative snake animation -->
-![Snake Animation](https://github.com/Davanico1122/Davanico1122/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-<!-- Jika snake animation tidak muncul, gunakan ini sebagai alternatif -->
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
