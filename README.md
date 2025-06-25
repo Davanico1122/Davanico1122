@@ -1,10 +1,9 @@
-# 🌟 Selamat Datang di Dunia Koding Saya! 🌟
+# 🌟 Selamat Datang di Profil GitHub Saya! 🌟
 
 ## 👨‍🎓 Tentang Saya
-Halo! Saya **Davanico**, seorang pelajar yang penuh semangat dalam dunia teknologi dan pengembangan perangkat lunak. Saat ini, saya sedang mengejar gelar di **Ilmu Komputer** dan berusaha untuk mengasah keterampilan saya dalam **Full Stack Development** dan **Cloud Computing**. Saya percaya bahwa setiap baris kode adalah langkah menuju inovasi dan solusi yang lebih baik.
+Halo! Saya **Davanico**, seorang pelajar yang bersemangat dalam dunia teknologi dan pengembangan perangkat lunak. Saat ini, saya sedang mengejar gelar di **Ilmu Komputer** dan berusaha untuk mengasah keterampilan saya dalam **Full Stack Development** dan **Cloud Computing**. Saya percaya bahwa setiap baris kode adalah langkah menuju inovasi dan solusi yang lebih baik.
 
-## 🚀 Visi dan Misi
-Saya berkomitmen untuk:
+### 🎯 Visi dan Misi
 - **Belajar**: Terus meningkatkan keterampilan dan pengetahuan saya di bidang teknologi.
 - **Berbagi**: Membagikan pengetahuan dan pengalaman saya melalui proyek open-source.
 - **Berkolaborasi**: Bekerja sama dengan orang-orang yang memiliki visi yang sama untuk menciptakan solusi yang berdampak.
@@ -61,21 +60,21 @@ Saya berkomitmen untuk:
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=radical)
 
 ## 🌟 Proyek Terbaru
-- [Smart Calculator](https://github.com/Davanico1122/Smart-Calculator) - Aplikasi kalkulator cerdas yang membantu menyelesaikan berbagai perhitungan.
-- [AI ChatBot](https://github.com/Davanico1122/AI-ChatBot) - Chatbot berbasis AI yang dapat menjawab pertanyaan umum.
+- **[Smart Calculator](https://github.com/Davanico1122/Smart-Calculator)**: Aplikasi kalkulator cerdas yang membantu menyelesaikan berbagai perhitungan dengan antarmuka yang ramah pengguna.
+- **[AI ChatBot](https://github.com/Davanico1122/AI-ChatBot)**: Chatbot berbasis AI yang dapat menjawab pertanyaan umum dan belajar dari interaksi pengguna.
 
 ## 🌐 Hubungi Saya
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -96,3 +95,15 @@ No activity tracked
 
 ## 🎉 Terima Kasih Telah Mengunjungi Profil Saya!
 Saya berharap dapat terhubung dan berkolaborasi dengan Anda. Mari kita ciptakan sesuatu yang luar biasa bersama! 🚀
+
+---
+
+### 💡 Tips untuk Pelajar
+- **Jangan Takut untuk Bertanya**: Setiap pertanyaan adalah langkah menuju pemahaman yang lebih baik.
+- **Praktikkan Keterampilan Anda**: Cobalah untuk membangun proyek kecil untuk menerapkan apa yang telah Anda pelajari.
+- **Jadilah Bagian dari Komunitas**: Bergabunglah dengan forum atau grup belajar untuk berbagi pengetahuan dan pengalaman.
+
+---
+
+## 🌈 Mari Berkolaborasi!
+Jika Anda memiliki ide proyek atau ingin berkolaborasi, jangan ragu untuk menghubungi saya. Saya selalu terbuka untuk diskusi dan kolaborasi yang menarik! 💬
