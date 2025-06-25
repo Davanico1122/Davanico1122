@@ -114,8 +114,6 @@ const davanico = {
 
 [![Davanico's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Davanico1122&theme=tokyo-night&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Davanico1122&theme=tokyo-night)
-
 </div>
 
 ---
