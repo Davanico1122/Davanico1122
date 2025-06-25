@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/150x150/1e40af/ffffff?text=DV" alt="Dava Profile" style="border-radius: 50%; margin: 20px;" />Pelajar | Web Dev Pemula | Suka Desain UI
+<img src="https://via.placeholder.com/150x150/1e40af/ffffff?text=DV" alt="Dava Profile" style="border-radius: 50%; margin: 20px;" />Pelajar | Web Dev Pemula | UI/UX Enthusiast
 
   
 
@@ -11,41 +11,41 @@
 
 🙋 Tentang Aku
 
-Halo! Aku Dava, pelajar yang lagi seru-serunya belajar tentang dunia web development.
-Aku suka bikin web, desain UI, dan kadang ngulik-ngulik codingan biar makin paham.
+Halo! Aku Dava, seorang pelajar yang lagi semangat belajar web development dan desain antarmuka.
+Aku suka eksperimen bikin website modern, dark mode, dan tampil simpel tapi keren.
 
-> “Belajar coding pelan-pelan, yang penting konsisten dan enjoy.”
+> “Pelan-pelan asal paham, yang penting jangan berhenti belajar.”
 
 
 
 
 ---
 
-🎯 Yang Aku Pelajari
+🔧 Skill & Tools
 
 <table>
 <tr>
-<td width="50%">💻 Ngoding
+<td width="50%">💻 Coding
 
-HTML, CSS, JavaScript dasar
+HTML, CSS, JavaScript
 
-React & Tailwind (masih belajar)
+React (dasar)
 
-Bikin website responsif
+Tailwind CSS
 
-Git & GitHub buat version control
+Git & GitHub
 
 
 </td>
 <td width="50%">🎨 Desain
 
-Figma buat desain UI
+Figma buat UI
 
-Warna & layout yang clean
+Dark/light mode UI
 
-Prototype kecil-kecilan
+Layouting & komponen
 
-Eksperimen dark mode
+Animasi dasar CSS
 
 
 </td>
@@ -53,7 +53,7 @@ Eksperimen dark mode
 </table>
 ---
 
-🧰 Tools & Bahasa
+⚙️ Tools & Bahasa
 
 🔤 Bahasa
 
@@ -63,75 +63,66 @@ Eksperimen dark mode
 
  
 
-🎨 Desain
-
-
-
-🔧 Tools
+🎨 Desain & Tools
 
   
 
 
 ---
 
-🚧 Proyek Sederhana
+💻 Proyek
 
 🌐 Portofolio Website
 
-Website pribadi buat nunjukin siapa aku dan proyek kecilku.
-Tech: HTML, CSS, JavaScript
-🔗 Lihat
+Website pribadi buat nunjukin siapa aku dan proyek-proyekku.
+🔗 Lihat di sini
 
-🧠 Game Memory Card
+🎮 Game Mini
 
-Game flip kartu buat ngasah ingatan.
-Tech: HTML, CSS, JS
-🔗 Lihat di GitHub
+Beberapa game kecil kayak:
 
-✅ To-Do List
+Game Tebak Angka
 
-Aplikasi buat nyatet tugas sekolah atau kegiatan harian.
-Tech: JavaScript, LocalStorage
-🔗 Repo
+Memory Card Flip
+Kode-nya bisa dilihat di repo-repo GitHub-ku ✌️
+
 
 
 ---
 
-📊 Statistik GitHub
+📊 GitHub Stats
 
-<div align="center"> <br/> 
+<div align="center">
+
+
 
 
 
 </div>
 ---
 
-📝 Blog / Catatan (Kalau Ada)
+🎓 Pendidikan
 
-<!-- BLOG-POST-LIST:START -->Coming soon... 😄
-
-
-<!-- BLOG-POST-LIST:END -->
----
-
-🎓 Sekolah & Belajar
-
-📍 Masih sekolah di SMK/SMA (atau tulis nama sekolahmu)
-Lagi belajar mandiri juga lewat YouTube, dokumentasi, dan projek kecil-kecilan.
+🎓 Masih pelajar — lagi belajar web dev secara mandiri lewat proyek, YouTube, dan dokumentasi.
 
 
 ---
 
-💬 Ayo Ngobrol!
+📬 Kontak Aku
 
-Kalau kamu juga pelajar, atau tertarik ngobrolin soal coding, desain, atau kolaborasi, feel free kontak aku!
+Kalau kamu juga belajar ngoding, atau mau ngobrol soal web atau UI, kontak aja ya!
 
-📩 Email: kamu@email.com
-📸 Instagram: @dava
+📩 Email: davanico@gmail.com
+📷 Instagram: @davanico
+🌐 Web: https://davanico.vercel.app
 
 
 ---
 
-> Terima kasih udah mampir ke profilku! 🚀
-“Belajar itu proses, bukan balapan.”
+> Terima kasih udah mampir ke GitHub-ku!
+“Dari pelajar, untuk karya masa depan.” 🚀
 
+
+
+
+---
