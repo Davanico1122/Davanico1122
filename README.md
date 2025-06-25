@@ -41,21 +41,29 @@ const davanico = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
+<!-- GitHub Stats dengan multiple fallback -->
+<a href="https://github.com/Davanico1122">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Davanico1122">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Davanico1122&theme=tokyonight&cache_seconds=86400)](https://git.io/streak-stats)
+<a href="https://github.com/Davanico1122">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
+<!-- Backup stats jika yang di atas tidak muncul -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&theme=radical&layout=compact)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davanico1122&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davanico1122&theme=radical&layout=compact" alt="Top Languages"/>
 
 </div>
 
