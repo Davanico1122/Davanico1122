@@ -174,15 +174,7 @@ CSS          22 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Currently Listening To
 
-<div align="center">
-
-[![Spotify](https://novatorem-davanico.vercel.app/api/spotify)](https://open.spotify.com/user/davanico1122)
-
-</div>
-
----
 
 ## 💼 Experience Timeline
 
