@@ -59,13 +59,6 @@ const davanico = {
 
 </div>
 
-<!-- Backup stats jika yang di atas tidak muncul -->
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davanico1122&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davanico1122&theme=radical&layout=compact" alt="Top Languages"/>
-
-</div>
 
 ---
 
