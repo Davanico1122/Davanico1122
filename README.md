@@ -16,6 +16,21 @@
 
 ---
 
+
+
+<div align="center">
+
+###  Watch me get eaten by my own snake game!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+-----
+
 ##  About Me
 
 ```javascript
@@ -123,24 +138,6 @@ const davanico = {
 ---
 
 
-
----
-
-##  Fun Zone
-
-<div align="center">
-
-###  Watch me get eaten by my own snake game!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 
 ---
