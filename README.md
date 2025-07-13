@@ -110,9 +110,7 @@ const davanico = {
 
 ---
 
-##  My Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davanico1122&theme=tokyo-night&hide_border=true)](https://github.com/Davanico1122)
+![Waktu Lokal](https://img.shields.io/timezone/Asia/Jakarta?label=Waktu%20Lokal&style=for-the-badge)
 
 
 
