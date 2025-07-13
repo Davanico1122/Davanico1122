@@ -144,7 +144,7 @@ const davanico = {
 
 <div align="center">
 
-###  *"The best time to plant a tree was 1 years ago. The second best time is now."* 
+###  *"The best time to plant a tree was years ago. The next best time is today."* 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
