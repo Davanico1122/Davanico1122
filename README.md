@@ -54,20 +54,59 @@ const davanico = {
 
 ##  My Stats
 
+---
+
+##  GitHub Stats
+
 <div align="center">
 
-<!-- GitHub Stats dengan multiple fallback -->
-<a href="https://github.com/Davanico1122">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/Davanico1122">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+      alt="Davanico1122's GitHub Stats"
+      height="180"
+      style="border-radius: 10px; margin-right: 10px;"
+    />
+  </a>
+
+  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+      height="180"
+      style="border-radius: 10px;"
+    />
+  </a>
+
+</div>
+
 ---
 
+##  GitHub Streak & Total Commits
+
+<div align="center">
+
+  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+      style="border-radius: 10px; margin-right: 10px;"
+    />
+  </a>
+
+  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=Davanico1122&limit=10&theme=tokyonight&hide_border=true"
+      alt="Total Contributions"
+      height="180"
+      style="border-radius: 10px;"
+    />
+  </a>
+
+</div>
 
 ---
-
 ##  GitHub Activity Graph
 
 <div align="center">
