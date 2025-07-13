@@ -57,27 +57,12 @@ const davanico = {
 <div align="center">
 
 <!-- GitHub Stats dengan multiple fallback -->
-<div align="center">
+##  GitHub Stats
 
-  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
-      alt="Davanico1122 GitHub Stats"
-      height="180"
-      style="border-radius: 10px; margin-right: 10px;"
-    />
-  </a>
+[![Davanico1122's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)](https://github.com/Davanico1122)
 
-  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"
-      alt="Davanico1122 Top Languages"
-      height="180"
-      style="border-radius: 10px;"
-    />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Davanico1122)
 
-</div>
 
 
 ---
