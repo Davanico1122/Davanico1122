@@ -65,6 +65,9 @@ const davanico = {
 
 
 
+<a href="https://github.com/Davanico1122">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 ---
 
 
