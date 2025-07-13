@@ -95,14 +95,7 @@ const davanico = {
     />
   </a>
 
-  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-contributor-stats.vercel.app/api?username=Davanico1122&limit=10&theme=tokyonight&hide_border=true"
-      alt="Total Contributions"
-      height="180"
-      style="border-radius: 10px;"
-    />
-  </a>
+
 
 </div>
 
