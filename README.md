@@ -112,18 +112,20 @@ Design       45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 📄 License
+## 📄 License & Usage
 
-This profile README is licensed under the MIT License.
+**Profile README License**: MIT License - Boleh digunakan dengan bebas  
+**Repository & Projects**: All Rights Reserved - Tidak boleh di-clone tanpa izin
 
+### MIT License (Hanya untuk README Profile ini)
 ```
 MIT License
 
 Copyright (c) 2024 Davanico1122
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+of this README profile template and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
@@ -139,3 +141,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+### ⚠️ Important Notice
+- **README Profile Template**: Bebas digunakan (MIT License)
+- **All Other Repositories**: All Rights Reserved - Dilarang meng-clone tanpa izin
+- **Portfolio & Projects**: Protected by copyright - Hubungi saya untuk permission
+
+### 📞 Contact for Permission
+Jika ingin menggunakan kode dari repository lain, silakan hubungi:
+- 📧 Email: contact@davanikoo.me
+- 🌐 Website: [davanikoo.me](https://davanikoo.me)
