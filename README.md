@@ -37,18 +37,18 @@ Saya seorang pelajar SMK jurusan Desain Komunikasi Visual yang sedang belajar pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davanikoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davanikoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davanikoo&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/davanikoo/davanikoo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Davanico1122/Davanico1122/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Current Learning
@@ -104,7 +104,7 @@ Design       45 mins         █░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davanikoo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Davanico1122&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   <h3>Terima kasih sudah mengunjungi profile saya!</h3>
   <p>⭐ Jangan lupa star repository yang menarik!</p>
@@ -119,7 +119,7 @@ This profile README is licensed under the MIT License.
 ```
 MIT License
 
-Copyright (c) 2024 Davanikoo
+Copyright (c) 2024 Davanico1122
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
