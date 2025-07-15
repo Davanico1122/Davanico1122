@@ -1,127 +1,141 @@
-Hey there! I'm Davanico
+# Hi there! 👋 I'm Davanikoo
 
 <div align="center">
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SMK+Student;DKV+Major;Learning+to+Code;Building+My+Portfolio!" alt="Typing SVG" />
 </div>
----
 
-<div align="center">"Code is like humor. When you have to explain it, it's bad."
+## 🎨 About Me
 
-</div>
----
+Saya seorang pelajar SMK jurusan Desain Komunikasi Visual yang sedang belajar programming. Saya tertarik dengan dunia desain dan pengembangan web.
 
-<div align="center">Watch me get eaten by my own snake game!
+- 🎓 **Sekolah**: SMK Jurusan DKV
+- 📍 **Lokasi**: Indonesia
+- 🌱 **Sedang Belajar**: HTML, CSS, JavaScript, Python
+- 🎯 **Goal**: Menjadi Full-Stack Developer
+- 🎨 **Hobi**: Desain Grafis, Web Development
+- 💼 **Portfolio**: [davanikoo.me](https://davanikoo.me)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg">
-</picture></div>About Me
+## 🛠️ Tech Stack (Yang Sedang Dipelajari)
 
-const davanico = {
-    name: "Davanico",
-    role: "Full Stack Developer",
-    location: "Indonesia ",
-    languages: ["JavaScript", "Python", "Java", "PHP"],
-    technologies: {
-        frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap"],
-        backend: ["Node.js", "Express", "Laravel", "Django"],
-        database: ["MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
-    },
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! "
-};
+### Programming Languages
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+### Design Tools
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-My Stats
-
-
----
-
-GitHub Stats
-
-<div align="center">  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-      alt="Davanico1122's GitHub Stats"
-      height="180"
-      style="border-radius: 10px; margin-right: 10px;"
-    />
-  </a>  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-      height="180"
-      style="border-radius: 10px;"
-    />
-  </a></div>
----
-
-GitHub Streak & Total Commits
-
-<div align="center">  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-      height="180"
-      style="border-radius: 10px; margin-right: 10px;"
-    />
-  </a></div>
----
-
-GitHub Activity Graph
+## 📊 GitHub Stats
 
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=davanikoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davanikoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
----
-
-
-
-
----
-
-GitHub Trophies
 
 <div align="center">
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davanikoo&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/davanikoo/davanikoo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 🎯 Current Learning
+
+- 📚 **HTML & CSS** - Dasar-dasar web development
+- 💻 **JavaScript** - Menambah interaktivitas web
+- 🐍 **Python** - Bahasa pemrograman untuk berbagai keperluan
+- 🎨 **UI/UX Design** - Membuat desain yang user-friendly
+
+## 🌟 My Projects
+
+Saya sedang mengembangkan beberapa project sederhana untuk belajar:
+
+- 🌐 **Portfolio Website** - [davanikoo.me](https://davanikoo.me)
+- 📱 **Landing Page** - Project HTML & CSS
+- 🎮 **Simple Game** - JavaScript game sederhana
+
+## 📈 Weekly Development Breakdown
+
+```text
+HTML/CSS     4 hrs 30 mins   ████████████░░░░░░░░░░░░░   45.0%
+JavaScript   3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   32.5%
+Python       1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
+Design       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    7.5%
+```
+
+## 🎯 2024 Goals
+
+- [ ] Menyelesaikan 50 commits
+- [ ] Membuat 5 project web sederhana
+- [ ] Belajar JavaScript dengan baik
+- [ ] Mengembangkan portfolio website
+- [ ] Berkontribusi di open source project
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://davanikoo.me">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/davanikoo">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:contact@davanikoo.me">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+## 💭 Quote
+
+> "The best way to learn is by doing. Keep coding, keep creating!" 
+
 ---
 
-Current Projects & Focus
-
-<div align="center">Project	Tech Stack	Status
-
-Personal Website	React, Next.js	In Progress
-Mobile App	React Native	Planning
-E-commerce Platform	Laravel, Vue.js	Completed
-Game Development	Unity, C#	Learning
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=davanikoo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <h3>Terima kasih sudah mengunjungi profile saya!</h3>
+  <p>⭐ Jangan lupa star repository yang menarik!</p>
 </div>
----
-
-Connect with Me
-
-<div align="center">     
-
-</div>
----
-
-<div align="center">"The best time to plant a tree was years ago. The next best time is today."
-
-
-
 
 ---
 
-** Don't forget to star my repositories if you find them interesting! **
+## 📄 License
 
-Made with  and lots of  by Davanico
+This profile README is licensed under the MIT License.
 
-</div>
+```
+MIT License
+
+Copyright (c) 2024 Davanikoo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
