@@ -1,35 +1,27 @@
-s of  by Davanico*
-
-</div>
-👋 Hey there! I'm Davanico
+Hey there! I'm Davanico
 
 <div align="center">
 
-🔗 🌐 Visit My Portfolio Website → Davanikoo.me
+</div>
+---
+
+<div align="center">"Code is like humor. When you have to explain it, it's bad."
 
 </div>
 ---
 
-<div align="center">"Code is like humor. When you have to explain it, it’s bad."
-
-</div>
----
-
-<div align="center">🐍 Watch me get eaten by my own snake game!
+<div align="center">Watch me get eaten by my own snake game!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake-light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davanico1122/Davanico1122/output/github-contribution-grid-snake.svg">
-</picture></div>
----
-
-📌 About Me
+</picture></div>About Me
 
 const davanico = {
-    name: "Davanico Ady Nugroho",
+    name: "Davanico",
     role: "Full Stack Developer",
-    location: "Indonesia",
+    location: "Indonesia ",
     languages: ["JavaScript", "Python", "Java", "PHP"],
     technologies: {
         frontend: ["React", "Vue.js", "HTML5", "CSS3", "Bootstrap"],
@@ -38,68 +30,98 @@ const davanico = {
         tools: ["Git", "Docker", "VS Code", "Figma"]
     },
     currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm not ashamed!"
+    funFact: "I debug with console.log() and I'm not ashamed! "
 };
 
 
 ---
 
-📊 GitHub Stats
+My Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="180"></div>
+
 ---
 
-🔥 GitHub Streak
+GitHub Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true" height="180"></div>
+<div align="center">  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Davanico1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+      alt="Davanico1122's GitHub Stats"
+      height="180"
+      style="border-radius: 10px; margin-right: 10px;"
+    />
+  </a>  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davanico1122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+      height="180"
+      style="border-radius: 10px;"
+    />
+  </a></div>
 ---
 
-📊 Activity Graph
+GitHub Streak & Total Commits
+
+<div align="center">  <a href="https://github.com/Davanico1122" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Davanico1122&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+      style="border-radius: 10px; margin-right: 10px;"
+    />
+  </a></div>
+---
+
+GitHub Activity Graph
 
 <div align="center">
 
 </div>
 ---
 
-🏆 GitHub Trophies
+
+
+
+---
+
+GitHub Trophies
 
 <div align="center">
 
-</div>
----
 
-⚖️ Current Projects
-
-Project	Tech Stack	Status
-
-Portfolio Website	HTML/CSS/JS, Vite	Live
-Fake Windows	HTML, JS, Desktop Style	In Progress
-Admin Uang Kas	Vanilla JS, File DB	Beta
-Telegram Chat Form	JS, Telegram API	Active
-
-
-
----
-
-🔗 Let's Connect
-
-<div align="center">    
 
 </div>
 ---
 
-<div align="center">> “The best time to plant a tree was 20 years ago. The second best time is now.”
+Current Projects & Focus
+
+<div align="center">Project	Tech Stack	Status
+
+Personal Website	React, Next.js	In Progress
+Mobile App	React Native	Planning
+E-commerce Platform	Laravel, Vue.js	Completed
+Game Development	Unity, C#	Learning
 
 
+</div>
+---
+
+Connect with Me
+
+<div align="center">     
+
+</div>
+---
+
+<div align="center">"The best time to plant a tree was years ago. The next best time is today."
 
 
 
 
 ---
 
-⭐ Don't forget to star the repos you like!
+** Don't forget to star my repositories if you find them interesting! **
 
-🧠 Built with passion and dreams by Davanico
+Made with  and lots of  by Davanico
 
 </div>
