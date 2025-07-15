@@ -149,5 +149,6 @@ SOFTWARE.
 
 ### 📞 Contact for Permission
 Jika ingin menggunakan kode dari repository lain, silakan hubungi:
-- 📧 Email: contact@davanikoo.me
-- 🌐 Website: [davanikoo.me](https://davanikoo.me)
+- 📧 Email contact:davaniko1122@gmail.com
+- 🅾 Instagram:@davanico1122_
+
