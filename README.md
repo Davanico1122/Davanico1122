@@ -1,19 +1,10 @@
-# Hi there!  I'm Davanikoo
+# Hi there! 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SMK+Student;DKV+Major;Learning+to+Code;Building+My+Portfolio!" alt="Typing SVG" />
 </div>
 
-##  About Me
-
-Saya seorang pelajar SMK jurusan Desain Komunikasi Visual yang sedang belajar programming. Saya tertarik dengan dunia desain dan pengembangan web.
-
--  **Sekolah**: SMK Jurusan DKV
--  **Lokasi**: Indonesia
--  **Sedang Belajar**: HTML, CSS, JavaScript, Python
--  **Goal**: Menjadi Full-Stack Developer
--  **Hobi**: Desain Grafis, Web Development
--  **Portfolio**: [davanikoo.me](https://davanikoo.me)
+ [davanikoo.me](https://davanikoo.me)
 
 ##  Tech Stack (Yang Sedang Dipelajari)
 
