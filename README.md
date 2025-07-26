@@ -75,8 +75,6 @@
   <img src="https://raw.githubusercontent.com/davanico1122/davanico1122/output/github-contribution-grid-snake.svg" />
 </p>
 
->  *Aktifkan GitHub Actions untuk membuat file `github-contribution-grid-snake.svg`. Saya bisa bantu setup-nya jika kamu belum.*
-
 ---
 
 ###  My Philosophy
