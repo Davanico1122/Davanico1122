@@ -72,7 +72,7 @@
 ###  GitHub Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davanico1122/davanico1122/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/davanico1122/davanico1122/output/github-contribution-grid-snake.svg" />
 </p>
 
 >  *Aktifkan GitHub Actions untuk membuat file `github-contribution-grid-snake.svg`. Saya bisa bantu setup-nya jika kamu belum.*
