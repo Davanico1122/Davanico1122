@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Davanico</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=FACC15&width=435&lines=Cybersecurity+and+Tool+Builder;Developer+of+Veko+Go+and+Dome;load Testing+and+Anonymity+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=FACC15&width=435&lines=Cybersecurity+and+Tool+Builder;Developer+of+Veko+Go+and+Dome;load+Testing+and+Anonymity+Researcher" alt="Typing SVG" />
 </p>
 
 ---
